@@ -15,6 +15,11 @@ applications:
   host: backends-ui-sg
   path: fortune-teller-ui/target/fortune-teller-ui-0.0.1-SNAPSHOT.jar
   services:
+
+
+
+
+    
   - config-server
   - service-registry
   - circuit-breaker-dashboard
